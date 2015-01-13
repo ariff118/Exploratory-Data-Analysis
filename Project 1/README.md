@@ -1,5 +1,6 @@
 ## Exploratory Data Analysis
 ### Project 1
+#### (Same course project 1 works can also be found at https://github.com/ariff118/ExData_Plotting1
 
 To run this script, please do the following:
 
